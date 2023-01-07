@@ -1,9 +1,4 @@
 <script setup lang="ts">
-definePage({
-  meta: {
-    requiresConnection: true,
-  }
-})
 </script>
 
 <template>
